@@ -16,4 +16,38 @@ javac Student.java StudentGradeTracker.java
 java StudentGradeTracker
 
 ## Sample output
-(paste a screenshot or a few lines of console output here)
+====Student Grade Manager====
+1. Add Student
+2. View All Students
+3. Update a Student's grade
+4. Delete a Student
+5. Show Stats(Average,Highest,Lowest)
+6. Display Summary Report
+7. Exit
+Enter Your Choice : 1
+Enter Student Name : Rohan
+Enter grade (0-100) : 85
+Student added successfully.
+
+Enter Your Choice : 1
+Enter Student Name : Aman
+Enter grade (0-100) : 72
+Student added successfully.
+
+Enter Your Choice : 1
+Enter Student Name : Simran
+Enter grade (0-100) : 105
+Enter valid marks (0-100).
+Enter grade (0-100) : 94
+Student added successfully.
+
+Enter Your Choice : 1
+Enter Student Name : Karan
+Enter grade (0-100) : abc
+Invalid input! Enter a number.
+Enter grade (0-100) : 58
+Student added successfully.
+
+Enter Your Choice : 3
+Enter student name : Karan
+Current grade :
