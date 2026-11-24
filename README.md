@@ -12,8 +12,23 @@ Console-based Java program to manage student grades.
 - Java, ArrayList, OOP (Student class)
 
 ## How to run
-javac Student.java StudentGradeTracker.java
+## How to run
+
+1. Clone the repo:
+```
+git clone https://github.com/rohanshxrma/Student-Grade-Tracker-In-Java.git
+cd Student-Grade-Tracker-In-Java
+```
+
+2. Compile:
+```
+javac *.java
+```
+
+3. Run:
+```
 java StudentGradeTracker
+```
 
 ## Sample output
 ====Student Grade Manager====
